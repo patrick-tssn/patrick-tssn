@@ -1,6 +1,6 @@
 ### Hey There :guitar:
 
-- 🔭 I am  Yuxuan Wang (汪宇轩), a research engineer at BIGAI. Previously, I was a MS student at Peking University (PKU). 
+- 🔭 I am Yuxuan Wang (汪宇轩), a research engineer at BIGAI. Previously, I completed my Master's degree at Peking University (PKU) and interned at Johns Hopkins University (JHU).
 
 ![Yuxuan wang's Github stats](https://github-readme-stats.vercel.app/api?username=patrick-tssn&theme=react&show_icons=true&count_private=false)
 
