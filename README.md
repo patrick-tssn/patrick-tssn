@@ -1,6 +1,6 @@
 ### Hey There :guitar:
 
-- 🌱 I am Yuxuan Wang (汪宇轩), a research engineer at Qwen team, Alibaba. I completed my Master's degree at Peking University (PKU).
+- 🌱 I am Yuxuan Wang (汪宇轩), working at Qwen team, Alibaba. I completed my Master's degree at Peking University (PKU).
 - 🔭 I am keen to explore “o” for “omni”.
 - 🤝 I am continually open to all forms of collaborative opportunities.
 
